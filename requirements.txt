@@ -1,0 +1,5 @@
+appdirs==1.4.4
+fontPens==0.2.4
+fonttools==4.43.0
+fs==2.4.16
+six==1.16.0
